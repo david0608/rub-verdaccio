@@ -60,7 +60,7 @@ $ npm config set @myorg:registry http://xxx.xxx.xxx:4873
 $ mkdir mypackage && cd mypackage
 mypackage$ npm init --scope myorg
 ...
-npm publish
+mypackage$ npm publish
 ...
 ```
 
